@@ -29,4 +29,4 @@ Attribute Information:
 11-Nitrogen oxides (NOx) mg/m3 25.90 119.91 65.29
 
 # data source
-[dataset_link](https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set)
+[dataset_link](https://archive.ics.uci.edu/dataset/551/gas+turbine+co+and+nox+emission+data+set)
